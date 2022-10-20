@@ -8,7 +8,7 @@
         <version>2.7.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.qsc.venuesservice</groupId>
+    <groupId>com.givadogabone.venuesservice</groupId>
     <artifactId>venues-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>venues-service</name>
