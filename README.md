@@ -5,7 +5,7 @@ hazelcast-springboot-template
 
 This is an example of how to use Spring Boot with Hazelcast Viridian.
 
-TIP: For step-by-step instructions of how to run this app, see the link:https://docs.hazelcast.com/tutorials/spring-boot-client[tutorial].
+TIP: For step-by-step instructions of how to run this app, see the link:https://docs.hazelcast.com/tutorials/spring-boot-client.
 
 ### Quickstart
 
