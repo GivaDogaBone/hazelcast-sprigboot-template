@@ -3,7 +3,7 @@ hazelcast-springboot-template
 ### Spring Boot Application for Hazelcast Viridian
 :experimental: true
 
-This is an example of how to use Spring Boot with Hazelcast Viridian.
+This is an example of how to use Spring Boot (CRUD Operations) with Hazelcast Viridian.
 
 TIP: For step-by-step instructions of how to run this app, see the link:https://docs.hazelcast.com/tutorials/spring-boot-client.
 
