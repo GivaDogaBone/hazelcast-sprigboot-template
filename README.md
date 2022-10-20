@@ -1,2 +1,2 @@
-# hazelcast-sprigboot-template
-hazelcast-sprigboot-template
+# hazelcast-springboot-template
+hazelcast-springboot-template
