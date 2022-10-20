@@ -1,5 +1,8 @@
 # hazelcast-springboot-template
 hazelcast-springboot-template
+
+- Click the 'Open in Gitpod' link: [![Open in IDE](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/GivaDogaBone/hazelcast-springboot-template)
+
 ### Spring Boot Application for Hazelcast Viridian
 :experimental: true
 
