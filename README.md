@@ -53,3 +53,7 @@ Viridian
 ```
 https://viridian.hazelcast.com/sign-in
 ```
+
+### Design Pattern
+
+![Design Pattern](docs/images/Technology Stack Design.png)
